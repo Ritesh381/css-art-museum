@@ -1,5 +1,15 @@
 [
   {
+    "file": "noor-spaceart.html",
+    "title": "Space-art",
+    "author": "Noor"
+  },
+  {
+    "file": "abstract_shapes.html",
+    "title": "Abstract Shapes",
+    "author": "Mayank Bansal"
+  },
+  {
     "file": "uday-rain-in-dark-night.html",
     "title": "Rain In Dark",
     "author": "Uday"
@@ -15,7 +25,7 @@
     "author": "Chanakya"
   },
   {
-    "file": "Waqar-arc..html",
+    "file": "Waqar-arc.html",
     "title": "Arc Reactor",
     "author": "Waqar"
   },
